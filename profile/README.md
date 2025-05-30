@@ -1,4 +1,4 @@
-👋 Welcome to Scptric
+## 👋 Welcome to Scptric
 
 🚀 **Scptric** is a Smart Data Solutions startup on a mission to harness the power of intelligent systems, clean design, and cutting-edge data engineering to deliver real-world impact.
 
